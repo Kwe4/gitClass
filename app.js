@@ -13,6 +13,6 @@ app.listen(3000, ()=>{
   console.log('Now Listening on Port 3000 !')
 })
 
-// 1.  Untracked ! 
-// 2.  Stage !
+// 1.  Untracked ! --> git add
+// 2.  Stage !     --> git commit
 // 3.  Commited ! 
